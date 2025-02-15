@@ -1,7 +1,7 @@
 - 👋 Hi, I’m P...rabesh K C 
 - 👀 I’m interested in Networking 
 - 🌱 I’m currently learning AWS
-- 💞️ I’m open tp collaborate
+- 💞️ I’m open to collaborate
 - 📫 prabeshkhatrichhetri@gmail.com
 
   
